@@ -11,31 +11,19 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
-
-/start :- check am Alive
-
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ help ചോയ്ച്ച് വന്നിരിക്കുന്നു...ഇവിടെ help ഉം കൊണ്ട് വന്നിട്ട് ഒരു കാര്യവും ഇല്ല.😜
+@MalluChithrangal
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Elizabeth Olsen
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Mallu ചിത്രങ്ങൾ](https://t.me/MalluChithrangalGroup)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/+1m74bQQDCFQ4Mzk9)
 """
